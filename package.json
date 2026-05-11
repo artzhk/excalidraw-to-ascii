@@ -1,5 +1,5 @@
 {
-  "name": "excalidraw-to-asci",
+  "name": "excalidraw-to-ascii",
   "version": "1.0.0",
   "description": "Convert Excalidraw drawings to ASCII",
   "license": "MIT",
