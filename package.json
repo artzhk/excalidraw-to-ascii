@@ -1,0 +1,16 @@
+{
+  "name": "excalidraw-to-asci",
+  "version": "1.0.0",
+  "description": "Convert Excalidraw drawings to ASCII",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "vite": "^6.1.0"
+  }
+}
