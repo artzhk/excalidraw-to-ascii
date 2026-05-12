@@ -1,4 +1,4 @@
-# Excalidraw to ASCII
+# [Excalidraw to ASCII](https://artzhk.github.io/excalidraw-to-ascii/)
 
 Paste an Excalidraw scene JSON export and convert it to plain-text ASCII diagrams.
 
